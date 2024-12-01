@@ -10,3 +10,4 @@ x=int(input("enter number :"))
 print(x)
 # example 4
 print(type(x))
+print(id(num))
