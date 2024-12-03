@@ -1,5 +1,4 @@
-#•	Write a Python program to demonstrate the creation of variables and different data types. 
-# example 1
+ # example 1
   # comment 
  # var_name = value'''
 #example 2

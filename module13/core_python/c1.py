@@ -21,13 +21,13 @@ print(type(str2))
 
 #lists
 
-mark=(45,89,90,67,45,78,90)
+mark=[45,89,90,67,45,78,90]
 print(mark)
 print(type(mark))
 
 #tuple
 
-tup={1,2,3,4,5,6}
+tup=(1,2,3,4,5,6)
 print(tup)
 print(type(tup))
 

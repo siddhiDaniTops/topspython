@@ -15,14 +15,14 @@ Bitwise operators: &, |, ^, ~, <<, >>
 
 """
 #arithmetic 
-#x=int(input("number:"))
-#y=int(input("number:"))
-#print("sum =" ,x+y)
-#print("sub =" ,x-y)
-#rint("maltiply =" ,x*y)
-#print("division =" ,x/y)
-#print("floor division =" ,x//y)
-#print("Exception=" ,x**y)
+x=int(input("number:"))
+y=int(input("number:"))
+print("sum =" ,x+y)
+print("sub =" ,x-y)
+print("maltiply =" ,x*y)
+print("division =" ,x/y)
+print("floor division =" ,x//y)
+print("Exception=" ,x**y)
   
 
 #logical  and,or,not
@@ -48,7 +48,7 @@ num-=10
 print(num)
 num/=2
 print(num)
-num//=3
+num//=3 #3*8=24 # ans=8.0
 print(num)
 num*=4
 print(num)
