@@ -36,11 +36,13 @@ print()
 print("pop....")
 
 list.pop()
+list.pop(1)
 print(list)
 print()
 #remove
 print("remove....")
 list.remove("siddhi")
+
 print(list)
 print()
 
