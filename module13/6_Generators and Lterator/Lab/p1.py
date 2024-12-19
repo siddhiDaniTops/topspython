@@ -5,8 +5,6 @@ def generate_even_numbers():
         yield num
         num += 2
         count += 1
-
-# Using the generator function
 even_numbers = generate_even_numbers()
 
 for even in even_numbers:

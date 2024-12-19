@@ -1,6 +1,6 @@
-List1 = ['apple', 'banana', 'mango']
+List1 = ['apple', 'vivo', 'oppo']
 
-for fruit in List1:
-    if fruit == 'banana':
+for mob in List1:
+    if mob == 'vivo':
         break # break the loop
-    print(fruit)
+    print(mob)

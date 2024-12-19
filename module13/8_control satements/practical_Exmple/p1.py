@@ -1,6 +1,6 @@
-List1 = ['apple', 'banana', 'mango']
+List1 = ['SV patel collage ', 'sutex bank collage ', 'SDJ collage']
 
-for fruit in List1:
-    if fruit == 'banana':
+for collage in List1:
+    if collage == 'sutex bank collage':
         continue  # Skip 'banana'
-    print(fruit)
+    print(collage)
